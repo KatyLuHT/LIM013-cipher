@@ -1,30 +1,26 @@
 <!DOCTYPE html>
 <html>
+  <link rel="shortcut icon" type="image/x-icon" href="imagenes/lotoicon.png">
   <head>
     <meta charset="utf-8">
-    <title>Caesar Cipher</title>
+    <title>Jatary Warmy</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <h1><u>Jatari Warmi</u></h1>
-    <p>Organización creada con el fin de apoyar a mujeres vulnerables en situación de riesgo.</p>
+    <p>Creada con el fin de apoyar a mujeres vulnerables en situación de riesgo.</p>
 
     <div id="formulario">
       <h1><u>Bienvenida</u></h1>
-      <label><b>Ingrese N° DNI</b></label>    <input type="password" id="name" ></br></br>
-      <label><b>Ingrese Mensaje</b></label>  <input type="text" id="input_msj" > <br><br>
-      <!-- <button class="btn btn-primary" type="button" onclick="mostrarContrasena()">Mostrar Contraseña</button> -->
-      <label><b>Ingrese N° Clave</b></label>  <input type="number" id="offset"><br><br>
-      <div >
-        <a id="btn_codificar" href="#" class="btn btn-warmi">Codificar</a>
-        <a id="btn_decodificar" href="#" class="btn btn-warmi">Decodicar</a>
-      </div>
-      
-      <h2>Mostrando Mensaje</h2><input type="text" id="mostrando_msj"><br><br>
-      <div >
+      <label><b>Ingrese N° DNI</b></label></br> <input type="password" id="name" ></br></br>
+      <label><b>Ingrese Mensaje</b></label></br> <textarea id ="msj" name="msj" rows="4" cols="30" ></textarea></br></br>
+      <label><b>Ingrese N° Clave</b></label>  <input type="number" id="offset" ><br><br>
+        <a id="btn_codificar" href="#" class="btn btn-warmi">Cifrar</a>
+        <a id="btn_decodificar" href="#" class="btn btn-warmi">Decifrar</a></br></br> 
+      <label><b>Mostrando Mensaje</b></label></br> <textarea id ="mostrando_msj" name="msj" rows="4" cols="30" ></textarea></br></br> 
+     <div>
         <a onclick="location.reload();" href="#" class="btn btn-warmi">Restaurar</a>
       </div>
-      <!-- <button onclick="location.reload();" class="btn_restaurar">restaurar</button> -->
     </div>
     <script src="index.js" type="module"></script> 
     <!-- <script src="index.js"></script> -->

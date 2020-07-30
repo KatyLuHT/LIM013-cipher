@@ -5,7 +5,7 @@ body {
 
     font-family: "Verdana", Times, serif;
    /* color de la fuente*/
-   color:rgb(231, 231, 243);
+    color:rgb(231, 231, 243);
 
 }
 
@@ -18,14 +18,14 @@ body {
     margin-top: 5%; /* margen superior*/
     margin-left:1%; /* margen izquierdo*/
     padding:1%;  /*relleno*/
-    background-image:url(/imagenes/fondo\ div.jpg); /*fondo*/
+    background-image:url(/imagenes/fondo.jpg); /*fondo*/
     
     }
 
     .btn{
     border-radius: 3px;
     display: inline-block;
-    padding: 20px 15px;
+    padding: 10px 10px;
     text-decoration:none;
     text-shadow: 0 1px 0 rgb(111, 111, 226);
     box-shadow: 0 1px 1px rgb(0,0,0,);

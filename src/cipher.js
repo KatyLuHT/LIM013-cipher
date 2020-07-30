@@ -1,8 +1,9 @@
 const cipher = {
   encode:(offset, string)=>{
-    console.log("*offset "+offset);
-    console.log("*string "+string);
+    // console.log("*offset "+offset);
+    // console.log("*string "+string);
 
+  // cifrado
     let msjencode="";
 
 //recomendable variables que solo se usen en este for
@@ -13,7 +14,7 @@ const cipher = {
       posicion_inicial=parseInt(string.charCodeAt(i));
       if(posicion_inicial+parseInt(offset)>90){
         let reinicio_posicion=posicion_inicial+parseInt(offset)-90;
-        console.log("posicion "+ posicion_inicial+parseInt(offset));
+      // console.log("posicion "+ posicion_inicial+parseInt(offset));
         letra_nueva=String.fromCharCode(64+reinicio_posicion);
         msjencode+=letra_nueva;// alamacena la nueva letra
       }
@@ -26,16 +27,19 @@ const cipher = {
       msjencode+=" ";
     }
   }
-  console.log("mensaje final "+msjencode);
+  // console.log("mensaje final "+msjencode);
   return msjencode;
   },
 
+  // Decifrado
+
+
   decode:(offset, string)=>{
- console.log("entre");
+//  console.log("entre");
     let msjdecode="";
 
     for(let i=0;i<string.length;i++){
-      console.log("string "+"["+i+"]"+string[i]);
+      // console.log("string "+"["+i+"]"+string[i]);
       let letra_nuevad;
       let posicion_iniciald;
       posicion_iniciald=parseInt(string.charCodeAt(i));
@@ -47,7 +51,7 @@ const cipher = {
   }
 
 
-//"1":2
+
   // ...
 };
 
