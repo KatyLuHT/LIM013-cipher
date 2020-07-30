@@ -1,8 +1,9 @@
 body {
+    background-repeat: no-repeat;
     background-image:url(/imagenes/mujeres-unidas.jpg);
     /* cambia segun el ancho */
-    background-size: 100%;
-
+    background-size:100%;
+    /* height: auto; */
     font-family: "Verdana", Times, serif;
    /* color de la fuente*/
     color:rgb(231, 231, 243);
@@ -13,13 +14,13 @@ body {
     font:italic;
     color:rgb(6, 5, 61);
     text-align: center;
-    width: 400px; /*ancho del div*/
+    width:400px; /*ancho del div*/
     height: auto; /*alto  del div*/
     margin-top: 5%; /* margen superior*/
-    margin-left:1%; /* margen izquierdo*/
+    margin-left:1%; /*margen izquierdo
+    /* margin-right:1%; */
     padding:1%;  /*relleno*/
     background-image:url(/imagenes/fondo.jpg); /*fondo*/
-    
     }
 
     .btn{
