@@ -146,6 +146,7 @@ La interfaz debe permitir al usuario:
 Debe contener lo siguiente:
 
 * Un título con el nombre de tu proyecto.
+Jatary Warmi
 * Explicar cómo descargar, instalar y ejecutar la aplicación
   así como una introducción.
 * Un resumen de 1 o 2 líneas de qué se trata tu proyecto.

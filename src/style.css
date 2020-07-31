@@ -1,46 +1,43 @@
-body {
-    background-repeat: no-repeat;
-    background-image:url(/imagenes/mujeres-unidas.jpg);
-    /* cambia segun el ancho */
-    background-size:100%;
-    /* height: auto; */
+body{
+    /* background-repeat: no-repeat; */
+    /* background-image: url(imagenes/mujeres-unidas.jpg); */
+    background:url(imagenes/mujeres-unidas.jpg) no-repeat;
+    background-size: 100%;
     font-family: "Verdana", Times, serif;
-   /* color de la fuente*/
-    color:rgb(231, 231, 243);
-
+    color: rgb(231,231,243);
 }
 
-#formulario {
-    font:italic;
-    color:rgb(6, 5, 61);
+#formulario{
+    font: italic;
+    color: rgb(6, 5, 61);
     text-align: center;
-    width:400px; /*ancho del div*/
-    height: auto; /*alto  del div*/
-    margin-top: 5%; /* margen superior*/
-    margin-left:1%; /*margen izquierdo
-    /* margin-right:1%; */
-    padding:1%;  /*relleno*/
-    background-image:url(/imagenes/fondo.jpg); /*fondo*/
-    }
+    width: 400px;
+    height: auto;
+    margin-top: 5%;
+    margin-left: 1%;
+    padding: 1%;
+    /* background-image: url(imagenes/fondo.jpg); */
+    background:url(imagenes/fondo.jpg);
+}
 
-    .btn{
+.btn{
     border-radius: 3px;
     display: inline-block;
     padding: 10px 10px;
     text-decoration:none;
-    text-shadow: 0 1px 0 rgb(111, 111, 226);
+    text-shadow: 0 1px 0 rgb(206, 206, 206);
     box-shadow: 0 1px 1px rgb(0,0,0,);
-    }
+}
 
-    .btn-warmi{
-     color:white;
-     background-color: rgba(101, 70, 185, 0.87);
-    }
+.btn-warmi{
+    color:white;
+    background-color: rgba(101, 70, 185, 0.87);
+   }
 
-    .btn-warmi:hover{
-        background-color:rgba(13, 120, 219, 0.733);
-    }
+   .btn-warmi:hover{
+    background-color:rgba(13, 120, 219, 0.733);
+}
 
-    .btn-warmi:active{
-        background-color: rgba(18, 7, 56, 0.733);
-    }
+.btn-warmi:active{
+    background-color: rgba(18, 7, 56, 0.733);
+}

@@ -3,6 +3,16 @@ const cipher = {
     // console.log("*offset "+offset);
     // console.log("*string "+string);
 
+// let numeros=/^[0-9]$/;
+// if(numeros.test(number)){
+
+// }else{
+
+//   msjencode+="ingrese solo numeros";
+// }
+// }
+
+
   // cifrado
     let msjencode="";
 // // eslint-disable-next-line no-unused-vars
@@ -11,7 +21,6 @@ const cipher = {
     let posicion_ascii;
     //atraer la posicion del caracter "A" =65
     posicion_ascii=parseInt(string.charCodeAt(i));
-    // console.log("posicion_ascii "+posicion_ascii );
       if(posicion_ascii>=65 && posicion_ascii<=90 || string[i]==" " ){
         let letra_nueva;
         // si un estring es distinto a un vacio que retorne el espacio
@@ -20,7 +29,6 @@ const cipher = {
           if(posicion_ascii+parseInt(offset)>90){
             // almaceno la cantidad de espacio que se excedio a partir del 90
             let reinicio_posicion=posicion_ascii+parseInt(offset)-90;
-            // console.log("5555 posicion "+i+" -- "+ (64+parseInt(reinicio_posicion)));
             //la cantidad que se excedio ejm: 1+64=65-A
             let num_letra = 64+parseInt(reinicio_posicion);
 
@@ -70,19 +78,13 @@ const cipher = {
       posicion_ascii_d=parseInt(string.charCodeAt(i));
       // rango de 65 a 90
       if(posicion_ascii_d>=65 && posicion_ascii_d<=90 || string[i]==" " ){
-      // console.log(" string[i] "+string[i]);
         if(string[i]!=" "){
           let espacios_retroceder = parseInt(posicion_ascii_d-parseInt(offset));
-          // console.log("posicion_ascii_d-parseInt(offset) "+espacios_retroceder);
           // es menor que 65 ( 64-55-25 )
           if(espacios_retroceder<65){
-            // console.log("entre al if valor  "+ parseInt (91-(parseInt(65-espacios_retroceder))));
-            // console.log("");0
             let num_letranueva= parseInt(91-(65-espacios_retroceder));
             if(num_letranueva>=65){
               letra_nueva_d=String.fromCharCode(num_letranueva);
-              // alamacena la nueva letra
-              // console.log("1letra_nueva "+letra_nueva_d);
               msjdecode+=letra_nueva_d;
 
             }else{
