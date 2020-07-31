@@ -1,6 +1,4 @@
 body{
-    /* background-repeat: no-repeat; */
-    /* background-image: url(imagenes/mujeres-unidas.jpg); */
     background:url(imagenes/mujeres-unidas.jpg) no-repeat;
     background-size: 100%;
     font-family: "Verdana", Times, serif;
@@ -18,6 +16,11 @@ body{
     padding: 1%;
     /* background-image: url(imagenes/fondo.jpg); */
     background:url(imagenes/fondo.jpg);
+}
+#frase{
+    font:cursive;
+    color: rgb(232, 238, 243);
+    background-color: rgb(15, 28, 83);
 }
 
 .btn{
