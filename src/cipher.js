@@ -90,7 +90,6 @@ const cipher = {
             }else{
               letra_nueva_d=String.fromCharCode(91-(65-num_letranueva));
               // alamacena la nueva letra
-              // console.log("2letra_nueva "+letra_nueva_d);
               msjdecode+=letra_nueva_d;
             }
             // esta dentro del rango de 65 -90
@@ -106,9 +105,7 @@ const cipher = {
         }
 
       }else{
-        //msjdecode="";
         msjdecode+="-";
-        // break;
       }
 
     }

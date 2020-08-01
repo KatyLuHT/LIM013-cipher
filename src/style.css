@@ -20,7 +20,7 @@ body{
 #frase{
     font:cursive;
     color: rgb(232, 238, 243);
-    background-color: rgb(15, 28, 83);
+    /* background-color: rgb(15, 28, 83); */
 }
 
 .btn{
