@@ -1,4 +1,4 @@
-# Jatary Warmy
+# Jatari Warmi
 
 ## Como instalar, aplicar y ejecutar
 
@@ -27,22 +27,23 @@
 
 ## Imagen final del proyecto
 
-![image](https://ibb.co/S5m3QSP)
+![image](https://i.ibb.co/5GjRYZ6/Jatari-Warmi-final.png)
 
 ## Investigación UX
     Los usuarios son mujeres que sufren de violencia familiar y desean crear un mensaje oculto.
 
-## cómo el producto soluciona los problemas/necesidades de dichos usuarios.
-    En la actualidad para que una mujer violentada haga escuchar su voz de ayuda tiene que pasar por cierto canales para que pueda comunicarse con un asesor como el chat 100, el cual toma tiempo. Esta plataforma ayuda a que deje un mensaje o denuncia oculta y este puede quedar registrado en la base de datos de una identidad como MIMP o Demuna.
-    Las usuarias  pueden ocultar sus mensajes de ayuda mediante el cifrado y de la misma manera al recibirlo el recepteor puede descifrar y conocer el mensaje.
+## cómo el producto soluciona los problemas y necesidades de dichos usuarios
 
-## Prototipo en papel.
+  En la actualidad para que una mujer violentada haga escuchar su voz de ayuda tiene que pasar por cierto canales para que pueda comunicarse con un asesor como el chat 100, el cual toma tiempo. Esta plataforma ayuda a que deje un mensaje o denuncia oculta y este puede quedar registrado en la base de datos de una identidad como MIMP o Demuna.
+  Las usuarias  pueden ocultar sus mensajes de ayuda mediante el cifrado y de la misma manera al recibirlo el recepteor puede descifrar y conocer el mensaje.
+
+## Prototipo en papel
 
 
 
 ## Resumen de feedback
-  - Primer feeback (Génesis) presenté un problema con el import y export de js y sugirió volver a clonar el cual me ayudo ya que no volvi a    tener problemas. Además  me recomendo el uso de un metodo para Js, reviso el trello, me dio algunas recomendaciones de uso.
-  - Segundo feeback(Génesis) sugirió que diera un salto de línea entre el texto y el input number para que se viera equilibrado. Además, sugirió algunas validaciones para el Js. Tambien me ayudo a comprender el mejor el dom.
+  - Primer feedback (Génesis) presenté un problema con el import y export de js y sugirió volver a clonar el cual me ayudo ya que no volvi a    tener problemas. Además  me recomendo el uso de un metodo para Js, reviso el trello, me dio algunas recomendaciones de uso.
+  - Segundo feedback(Génesis) sugirió que diera un salto de línea entre el texto y el input number para que se viera equilibrado. Además, sugirió algunas validaciones para el Js. Tambien me ayudo a comprender el mejor el dom.
   - Tercer feedback (Ivy) presente incovenientes con el testeo me ayudo a solucionarlo, me dio algunas recomendaciones referente Js. Tambien me dio recomendaciones para css y despejo una duda refrente a diseño responsive.
 
 ## Imagen del prototipo final.
