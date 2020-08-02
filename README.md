@@ -14,21 +14,41 @@
   7.	agregamos archivos con
       git add .gitignore
       git add .babelrc
-      git add . eslintrc
+      git add .eslintrc
       git add package-lock.json
   8.	colocamos npm test
   9.	Creamos la carpeta coverage y dentro de:  .gitignore (coverage/)
   10.	Agregamos archivo .gitignore con git add .gitignore
   11.	Luego hacemos un commit con: git commit –m ” comentario”
-  12.	Para levantar el proyecto colocamos: npm start
+  12.	Para ejecutar el proyecto colocamos: npm start
   13. Copiamos url y pegamos en el navegdor.
 
-  El 60% de feminicidios en Perú ocurren en el hogar, de acuerdo con el Observatorio de Criminalidad del Ministerio Público. En emergencias como esta, según ONU Mujeres y el PNUD, los riesgos de violencia contra las mujeres y las niñas aumentan en este espacio privado.
+      El 60% de feminicidios en Perú ocurren en el hogar, de acuerdo con el Observatorio de Criminalidad del Ministerio Público. Este proyecto a sido creado con el fin de apoyar a mujeres vulnerables en situacion de riesgo, cualquier mujer que necesite ocultar(cifrar) o interpretar (decifrar)un mensaje lo podra hacer a traves de esta plataforma. Para este proyecto hemos utilizado la tecnica de cifrado de Cesar el cual una letra en el texto original es reemplazada por otra letra que se encuentra en un número fijo de posiciones.
 
-Este proyecto a sido creado con el fin de apoyar a mujeres vulnerables en situacion de riesgo.
-mujeres que han sido violentadas por su parejas
- 
- IMagen final del proyecto
+## Imagen final del proyecto
 
- investigacion ux
+![image](https://ibb.co/S5m3QSP)
+
+## Investigación UX
+    Los usuarios son mujeres que sufren de violencia familiar y desean crear un mensaje oculto.
+
+## cómo el producto soluciona los problemas/necesidades de dichos usuarios.
+    En la actualidad para que una mujer violentada haga escuchar su voz de ayuda tiene que pasar por cierto canales para que pueda comunicarse con un asesor como el chat 100, el cual toma tiempo. Esta plataforma ayuda a que deje un mensaje o denuncia oculta y este puede quedar registrado en la base de datos de una identidad como MIMP o Demuna.
+    Las usuarias  pueden ocultar sus mensajes de ayuda mediante el cifrado y de la misma manera al recibirlo el recepteor puede descifrar y conocer el mensaje.
+
+## Prototipo en papel.
+
+
+
+## Resumen de feedback
+  - Primer feeback (Génesis) presenté un problema con el import y export de js y sugirió volver a clonar el cual me ayudo ya que no volvi a    tener problemas. Además  me recomendo el uso de un metodo para Js, reviso el trello, me dio algunas recomendaciones de uso.
+  - Segundo feeback(Génesis) sugirió que diera un salto de línea entre el texto y el input number para que se viera equilibrado. Además, sugirió algunas validaciones para el Js. Tambien me ayudo a comprender el mejor el dom.
+  - Tercer feedback (Ivy) presente incovenientes con el testeo me ayudo a solucionarlo, me dio algunas recomendaciones referente Js. Tambien me dio recomendaciones para css y despejo una duda refrente a diseño responsive.
+
+## Imagen del prototipo final.
+
+![image](https://ibb.co/1LrstzL)
+
+
+
  
