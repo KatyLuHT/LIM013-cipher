@@ -30,7 +30,7 @@
 ![image](https://i.ibb.co/5GjRYZ6/Jatari-Warmi-final.png)
 
 ## Investigación UX
-    Los usuarios a quienes va dirigido este proyecto son mujeres que sufren de violencia familiar y las personas o entidades que  le puedan brindar ayuda. Los objetivos de este proyecto es que se pueda comunicar mediante un mensaje  cifrado y a la vez la otra persona o entidad podrá brindarle apoyo decifrando el mensaje. Además esto se podria usar como una evidencia de violencia.
+  Los usuarios a quienes va dirigido este proyecto son mujeres que sufren de violencia familiar y las personas o entidades que  le puedan brindar ayuda. Los objetivos de este proyecto es que se pueda comunicar mediante un mensaje  cifrado y a la vez la otra persona o entidad podrá brindarle apoyo decifrando el mensaje. Además esto se podria usar como una evidencia de violencia.
 
 ## cómo el producto soluciona los problemas y necesidades de dichos usuarios
 
