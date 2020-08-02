@@ -30,26 +30,24 @@
 ![image](https://i.ibb.co/5GjRYZ6/Jatari-Warmi-final.png)
 
 ## Investigación UX
-    Los usuarios son mujeres que sufren de violencia familiar y desean crear un mensaje oculto.
+    Los usuarios a quienes va dirigido este proyecto son mujeres que sufren de violencia familiar y las personas o entidades que  le puedan brindar ayuda. Los objetivos de este proyecto es que se pueda comunicar mediante un mensaje  cifrado y a la vez la otra persona o entidad podrá brindarle apoyo decifrando el mensaje. Además esto se podria usar como una evidencia de violencia.
 
 ## cómo el producto soluciona los problemas y necesidades de dichos usuarios
 
-  En la actualidad para que una mujer violentada haga escuchar su voz de ayuda tiene que pasar por cierto canales para que pueda comunicarse con un asesor como el chat 100, el cual toma tiempo. Esta plataforma ayuda a que deje un mensaje o denuncia oculta y este puede quedar registrado en la base de datos de una identidad como MIMP o Demuna.
-  Las usuarias  pueden ocultar sus mensajes de ayuda mediante el cifrado y de la misma manera al recibirlo el recepteor puede descifrar y conocer el mensaje.
+  En la actualidad para que una mujer violentada haga escuchar su voz de ayuda tiene que pasar por cierto canales para que pueda comunicarse con un asesor de la linea 100, el cual toma tiempo. Esta plataforma ayuda a que deje un mensaje o denuncia oculta y este puede quedar registrado en la base de datos de una identidad como MIMP o Demuna.
+  Las usuarias  pueden ocultar sus mensajes de ayuda mediante el cifrado y de la misma manera al recibirlo el receptor puede descifrar y conocer el mensaje.
 
 ## Prototipo en papel
 
-
+![image](https://i.ibb.co/x3tjfCs/Prototipo-de-papel.jpg)
 
 ## Resumen de feedback
-  - Primer feedback (Génesis) presenté un problema con el import y export de js y sugirió volver a clonar el cual me ayudo ya que no volvi a    tener problemas. Además  me recomendo el uso de un metodo para Js, reviso el trello, me dio algunas recomendaciones de uso.
-  - Segundo feedback(Génesis) sugirió que diera un salto de línea entre el texto y el input number para que se viera equilibrado. Además, sugirió algunas validaciones para el Js. Tambien me ayudo a comprender el mejor el dom.
-  - Tercer feedback (Ivy) presente incovenientes con el testeo me ayudo a solucionarlo, me dio algunas recomendaciones referente Js. Tambien me dio recomendaciones para css y despejo una duda refrente a diseño responsive.
+  - Primer feedback: Presenté un problema con el import y export de js y sugirió volver a clonar el cual me ayudo ya que no volvi a tener problemas. Además  me recomendo el uso de un metodo para Js, reviso el trello, me dio algunas recomendaciones de uso.
+  - Segundo feedback: Sugirió que diera un salto de línea entre el texto y el input number para que se viera equilibrado. Además, sugirió algunas validaciones para el Js. Tambien me ayudo a comprender mejor el dom.
+  - Tercer feedback: Presente incovenientes con el testeo me ayudo a solucionarlo, me dio algunas recomendaciones referente Js. Tambien me dio recomendaciones para css y despejo una duda refrente a diseño responsive.
 
 ## Imagen del prototipo final.
 
-![image](https://ibb.co/1LrstzL)
+![image](https://i.ibb.co/mG9vVNG/Prototipo-Jatari-Warmi.png)
 
 
-
- 
