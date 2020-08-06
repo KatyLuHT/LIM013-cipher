@@ -1,6 +1,7 @@
 const cipher = {
   encode:(offset, string)=>{
 
+    
 
   // cifrado
     let msjencode="";
