@@ -15,7 +15,7 @@ window.addEventListener("load", function() {
     }
   }
 
-//cifrado
+//Cifrado
 
 const btn_codificar = document.getElementById("btn_codificar");
 btn_codificar.addEventListener("click", function() {
@@ -35,7 +35,7 @@ else{
 }
 });
 
-// decifrado
+// Decifrado
 
 const btn_decodificar = document.getElementById("btn_decodificar");
 btn_decodificar.addEventListener("click", function() {

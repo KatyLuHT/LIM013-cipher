@@ -14,14 +14,8 @@ body{
     margin-top: 5%;
     margin-left: 1%;
     padding: 1%;
-    /* background-image: url(imagenes/fondo.jpg); */
     background:url(imagenes/fondo.jpg);
 }
-/* #frase{
-    font:cursive;
-    color: rgb(232, 238, 243);
-    /* background-color: rgb(15, 28, 83);
-} */ 
 
 .btn{
     border-radius: 3px;

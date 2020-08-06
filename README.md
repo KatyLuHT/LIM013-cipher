@@ -23,9 +23,9 @@
 
 * Ingresar texto a cifrar.
 
-* Elegir N° de clave (offset de desplazamiento).
+* Elegir N° de clave.
 
-* Oprime boton "Cifrar".
+* Oprime botón "Cifrar".
 
 * Recibe tu mensaje cifrado.
 
@@ -38,7 +38,7 @@
 
 * Elegir N° de clave (el mismo que se utilizo para codificar).
 
-* Oprime boton "Decifrar".
+* Oprime botón "Decifrar".
 
 * Recibe tu mensaje decifrado.
 
@@ -67,7 +67,7 @@
 ## Solución de problemas y necesidades de usuarios
 
   En la actualidad para que una mujer violentada haga escuchar su voz de ayuda tiene que pasar por cierto canales para que pueda comunicarse con un asesor de la linea 100 el cual toma tiempo. Esta plataforma "Jatari Warmi" ayuda a que deje un mensaje o denuncia oculta y este puede quedar registrado en la base de datos de una identidad como MIMP o Demuna.
-  Las usuarias  pueden ocultar sus mensajes de ayuda mediante el cifrado y de la misma manera al recibirlo el receptor podra descifrar y conocer el mensaje.
+  Las usuarias  pueden ocultar sus mensajes de ayuda mediante el cifrado y de la misma manera al recibirlo el receptor podra descifrar y conocer el mensaje y brindar la ayuda necesaria.
 
 ## Prototipo en papel
 
@@ -80,7 +80,7 @@
 
 ## Imagen del prototipo final.
 
-![image](https://i.ibb.co/mG9vVNG/Prototipo-Jatari-Warmi.png)
+  ![image](https://i.ibb.co/mG9vVNG/Prototipo-Jatari-Warmi.png)
 
 
 ## 5. Consideraciones tecnicas
@@ -88,20 +88,20 @@
 ## Como instalar, aplicar y ejecutar
 
   1.	Copiar url del proyecto
-  2.	Para clonar en el git bash pegamos url
+  2.	Para clonar en el git bash pegamos url: git clone url
   3.	Desde el terminal de visual Estudio instalamos con npm install
   4.	Crear nuevos archivos:
-        .gitignore ( dentro agregamos node_modules)
+        .gitignore ( dentro agregamos node_modules/)
         .babelrc
         .eslintrc
   5.	Para ver el estado de los archivos colocamos git status
-  6.	Pgregamos archivos con
+  6.	Agregamos archivos con
       git add .gitignore
       git add .babelrc
       git add .eslintrc
       git add package-lock.json
   7.	Colocamos npm test
-  8.	Creamos la carpeta coverage y dentro de:  .gitignore (coverage/)
+  8.	Creamos la carpeta coverage y dentro de archivo .gitignore colocamos (coverage/)
   9.	Agregamos archivo .gitignore con git add .gitignore
   10.	Luego hacemos un commit con: git commit –m ”comentario”
   11.	Para ejecutar el proyecto colocamos: npm start

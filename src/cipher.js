@@ -23,7 +23,6 @@ const cipher = {
             // almacena la nueva letra
             msjencode+=letra_nueva;
             }
-
             else{
             letra_nueva=String.fromCharCode(posicion_ascii+parseInt(offset));
             msjencode+=letra_nueva;
@@ -72,7 +71,7 @@ const cipher = {
             // alamacena la nueva letra
             msjdecode+=letra_nueva_d;
           }
-      }else{
+        }else{
         // retorna el espacio vacio
           msjdecode+=" ";
         }
@@ -85,10 +84,6 @@ const cipher = {
     return msjdecode;
   }
 
-
-
-
-  // ...
 };
 
 export default cipher;
