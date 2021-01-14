@@ -47,11 +47,11 @@
 
 ## Imagen final del proyecto
 
-![image](/src/imagenes/Jatary-Warmi-final.PNG)
+![image](/src/imagenes/mujeres-unidas.jpg)
 
 - Versión Web
 
-![prototipoaltad](/src/imagenes/Jatary-Warmi.PNG)
+![prototipoaltad](../src/imagenes/Jatary-Warmi.PNG)
 
 
 ## 3. Tecnologia usada
