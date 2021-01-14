@@ -1,7 +1,6 @@
 const cipher = {
   encode:(offset, string)=>{
 
-    
 
   // cifrado
     let msjencode="";
@@ -46,11 +45,14 @@ const cipher = {
   decode:(offset, string)=>{
 
     let msjdecode="";
-
+// string.length hace el recorrido por todo el mensaje y dice el numero de letras
     for(let i=0;i<string.length;i++){
 
       let letra_nueva_d;
       let posicion_ascii_d;
+      //La función parseInt()analiza una cadena y devuelve un número entero// a txto hace recorrido y me dice la cantidad de letras
+      //El charCodeAt() método devuelve un número indicando el valor Unicode del carácter en el índice proporcionado.
+      //string.charCodeAt devuelve la posicion de la letra en codigo ascci ""hola"= h 72 
       posicion_ascii_d=parseInt(string.charCodeAt(i));
       if(posicion_ascii_d>=65 && posicion_ascii_d<=90 || string[i]==" " ){
         if(string[i]!=" "){

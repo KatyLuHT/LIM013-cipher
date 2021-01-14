@@ -47,7 +47,7 @@
 
 ## Imagen final del proyecto
 
-![image](https://i.ibb.co/5GjRYZ6/Jatari-Warmi-final.png)
+![image](/src/imagenes/JAtary Warmi-final.png)
 
 
 ## 3. Tecnologia usada
