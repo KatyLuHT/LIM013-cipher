@@ -51,7 +51,7 @@
 
 - Versión Web
 
-![prototipoaltad](../src/imagenes/Jatary-Warmi.PNG)
+![prototipoaltad](/src/imagenes/jatary-warmi.PNG)
 
 
 ## 3. Tecnologia usada
