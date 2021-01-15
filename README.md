@@ -47,11 +47,9 @@
 
 ## Imagen final del proyecto
 
-![image](/src/imagenes/mujeres-unidas.jpg)
+![imagen](/src/imagenes/mujeres-unidas.jpg)
 
-- Versión Web
-
-![prototipoaltad](/src/imagenes/jatary.PNG)
+![prototipoalta](/src/imagenes/jatary.png)
 
 
 ## 3. Tecnologia usada
