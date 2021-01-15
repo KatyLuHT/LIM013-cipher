@@ -46,10 +46,7 @@
 
 
 ## Imagen final del proyecto
-
-![prototipoalta](/src/imagenes/jatary.png)
-<!-- ![imagen](/src/imagenes/mujeres-unidas.jpg) -->
-
+![web](/src/imagenes/jatary.PNG)
 
 
 
